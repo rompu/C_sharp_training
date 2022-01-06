@@ -1,0 +1,25 @@
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Returning different types\bin\Debug\netcoreapp3.1\WeightObjectTest.exe
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Returning different types\bin\Debug\netcoreapp3.1\WeightObjectTest.deps.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Returning different types\bin\Debug\netcoreapp3.1\WeightObjectTest.runtimeconfig.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Returning different types\bin\Debug\netcoreapp3.1\WeightObjectTest.runtimeconfig.dev.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Returning different types\bin\Debug\netcoreapp3.1\WeightObjectTest.dll
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Returning different types\bin\Debug\netcoreapp3.1\WeightObjectTest.pdb
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Returning different types\obj\Debug\netcoreapp3.1\WeightObjectTest.AssemblyInfoInputs.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Returning different types\obj\Debug\netcoreapp3.1\WeightObjectTest.AssemblyInfo.cs
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Returning different types\obj\Debug\netcoreapp3.1\WeightObjectTest.csproj.CoreCompileInputs.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Returning different types\obj\Debug\netcoreapp3.1\WeightObjectTest.dll
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Returning different types\obj\Debug\netcoreapp3.1\WeightObjectTest.pdb
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Returning different types\obj\Debug\netcoreapp3.1\WeightObjectTest.genruntimeconfig.cache
+C:\sandbox\C_sharp_training\Returning different types\bin\Debug\netcoreapp3.1\WeightObjectTest.exe
+C:\sandbox\C_sharp_training\Returning different types\bin\Debug\netcoreapp3.1\WeightObjectTest.deps.json
+C:\sandbox\C_sharp_training\Returning different types\bin\Debug\netcoreapp3.1\WeightObjectTest.runtimeconfig.json
+C:\sandbox\C_sharp_training\Returning different types\bin\Debug\netcoreapp3.1\WeightObjectTest.runtimeconfig.dev.json
+C:\sandbox\C_sharp_training\Returning different types\bin\Debug\netcoreapp3.1\WeightObjectTest.dll
+C:\sandbox\C_sharp_training\Returning different types\bin\Debug\netcoreapp3.1\WeightObjectTest.pdb
+C:\sandbox\C_sharp_training\Returning different types\obj\Debug\netcoreapp3.1\WeightObjectTest.AssemblyInfoInputs.cache
+C:\sandbox\C_sharp_training\Returning different types\obj\Debug\netcoreapp3.1\WeightObjectTest.AssemblyInfo.cs
+C:\sandbox\C_sharp_training\Returning different types\obj\Debug\netcoreapp3.1\WeightObjectTest.csproj.CoreCompileInputs.cache
+C:\sandbox\C_sharp_training\Returning different types\obj\Debug\netcoreapp3.1\WeightObjectTest.dll
+C:\sandbox\C_sharp_training\Returning different types\obj\Debug\netcoreapp3.1\WeightObjectTest.pdb
+C:\sandbox\C_sharp_training\Returning different types\obj\Debug\netcoreapp3.1\WeightObjectTest.genruntimeconfig.cache
+C:\sandbox\C_sharp_training\Returning different types\obj\Debug\netcoreapp3.1\WeightObjectTest.GeneratedMSBuildEditorConfig.editorconfig

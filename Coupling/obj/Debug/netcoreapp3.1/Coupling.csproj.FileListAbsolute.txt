@@ -1,0 +1,27 @@
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Coupling\bin\Debug\netcoreapp3.1\Coupling.exe
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Coupling\bin\Debug\netcoreapp3.1\Coupling.deps.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Coupling\bin\Debug\netcoreapp3.1\Coupling.runtimeconfig.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Coupling\bin\Debug\netcoreapp3.1\Coupling.runtimeconfig.dev.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Coupling\bin\Debug\netcoreapp3.1\Coupling.dll
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Coupling\bin\Debug\netcoreapp3.1\Coupling.pdb
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Coupling\obj\Debug\netcoreapp3.1\Coupling.csprojAssemblyReference.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Coupling\obj\Debug\netcoreapp3.1\Coupling.AssemblyInfoInputs.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Coupling\obj\Debug\netcoreapp3.1\Coupling.AssemblyInfo.cs
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Coupling\obj\Debug\netcoreapp3.1\Coupling.csproj.CoreCompileInputs.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Coupling\obj\Debug\netcoreapp3.1\Coupling.dll
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Coupling\obj\Debug\netcoreapp3.1\Coupling.pdb
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Coupling\obj\Debug\netcoreapp3.1\Coupling.genruntimeconfig.cache
+C:\sandbox\C_sharp_training\Coupling\bin\Debug\netcoreapp3.1\Coupling.exe
+C:\sandbox\C_sharp_training\Coupling\bin\Debug\netcoreapp3.1\Coupling.deps.json
+C:\sandbox\C_sharp_training\Coupling\bin\Debug\netcoreapp3.1\Coupling.runtimeconfig.json
+C:\sandbox\C_sharp_training\Coupling\bin\Debug\netcoreapp3.1\Coupling.runtimeconfig.dev.json
+C:\sandbox\C_sharp_training\Coupling\bin\Debug\netcoreapp3.1\Coupling.dll
+C:\sandbox\C_sharp_training\Coupling\bin\Debug\netcoreapp3.1\Coupling.pdb
+C:\sandbox\C_sharp_training\Coupling\obj\Debug\netcoreapp3.1\Coupling.AssemblyInfoInputs.cache
+C:\sandbox\C_sharp_training\Coupling\obj\Debug\netcoreapp3.1\Coupling.AssemblyInfo.cs
+C:\sandbox\C_sharp_training\Coupling\obj\Debug\netcoreapp3.1\Coupling.csproj.CoreCompileInputs.cache
+C:\sandbox\C_sharp_training\Coupling\obj\Debug\netcoreapp3.1\Coupling.dll
+C:\sandbox\C_sharp_training\Coupling\obj\Debug\netcoreapp3.1\Coupling.pdb
+C:\sandbox\C_sharp_training\Coupling\obj\Debug\netcoreapp3.1\Coupling.genruntimeconfig.cache
+C:\sandbox\C_sharp_training\Coupling\obj\Debug\netcoreapp3.1\Coupling.csproj.AssemblyReference.cache
+C:\sandbox\C_sharp_training\Coupling\obj\Debug\netcoreapp3.1\Coupling.GeneratedMSBuildEditorConfig.editorconfig

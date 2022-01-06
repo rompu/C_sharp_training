@@ -1,0 +1,12 @@
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\TestingLINQ\bin\Debug\netcoreapp3.1\TestingLINQ.exe
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\TestingLINQ\bin\Debug\netcoreapp3.1\TestingLINQ.deps.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\TestingLINQ\bin\Debug\netcoreapp3.1\TestingLINQ.runtimeconfig.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\TestingLINQ\bin\Debug\netcoreapp3.1\TestingLINQ.runtimeconfig.dev.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\TestingLINQ\bin\Debug\netcoreapp3.1\TestingLINQ.dll
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\TestingLINQ\bin\Debug\netcoreapp3.1\TestingLINQ.pdb
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\TestingLINQ\obj\Debug\netcoreapp3.1\TestingLINQ.AssemblyInfoInputs.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\TestingLINQ\obj\Debug\netcoreapp3.1\TestingLINQ.AssemblyInfo.cs
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\TestingLINQ\obj\Debug\netcoreapp3.1\TestingLINQ.csproj.CoreCompileInputs.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\TestingLINQ\obj\Debug\netcoreapp3.1\TestingLINQ.dll
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\TestingLINQ\obj\Debug\netcoreapp3.1\TestingLINQ.pdb
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\TestingLINQ\obj\Debug\netcoreapp3.1\TestingLINQ.genruntimeconfig.cache

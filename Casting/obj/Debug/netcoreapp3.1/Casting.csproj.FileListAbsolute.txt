@@ -1,0 +1,13 @@
+C:\sandbox\C_sharp_training\Casting\bin\Debug\netcoreapp3.1\Casting.exe
+C:\sandbox\C_sharp_training\Casting\bin\Debug\netcoreapp3.1\Casting.deps.json
+C:\sandbox\C_sharp_training\Casting\bin\Debug\netcoreapp3.1\Casting.runtimeconfig.json
+C:\sandbox\C_sharp_training\Casting\bin\Debug\netcoreapp3.1\Casting.runtimeconfig.dev.json
+C:\sandbox\C_sharp_training\Casting\bin\Debug\netcoreapp3.1\Casting.dll
+C:\sandbox\C_sharp_training\Casting\bin\Debug\netcoreapp3.1\Casting.pdb
+C:\sandbox\C_sharp_training\Casting\obj\Debug\netcoreapp3.1\Casting.AssemblyInfoInputs.cache
+C:\sandbox\C_sharp_training\Casting\obj\Debug\netcoreapp3.1\Casting.AssemblyInfo.cs
+C:\sandbox\C_sharp_training\Casting\obj\Debug\netcoreapp3.1\Casting.csproj.CoreCompileInputs.cache
+C:\sandbox\C_sharp_training\Casting\obj\Debug\netcoreapp3.1\Casting.dll
+C:\sandbox\C_sharp_training\Casting\obj\Debug\netcoreapp3.1\Casting.pdb
+C:\sandbox\C_sharp_training\Casting\obj\Debug\netcoreapp3.1\Casting.genruntimeconfig.cache
+C:\sandbox\C_sharp_training\Casting\obj\Debug\netcoreapp3.1\Casting.GeneratedMSBuildEditorConfig.editorconfig

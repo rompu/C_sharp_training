@@ -1,0 +1,25 @@
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Delegates\bin\Debug\netcoreapp3.1\Delegates.exe
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Delegates\bin\Debug\netcoreapp3.1\Delegates.deps.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.dev.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Delegates\bin\Debug\netcoreapp3.1\Delegates.dll
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Delegates\bin\Debug\netcoreapp3.1\Delegates.pdb
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfoInputs.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfo.cs
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Delegates\obj\Debug\netcoreapp3.1\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Delegates\obj\Debug\netcoreapp3.1\Delegates.dll
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Delegates\obj\Debug\netcoreapp3.1\Delegates.pdb
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Delegates\obj\Debug\netcoreapp3.1\Delegates.genruntimeconfig.cache
+C:\sandbox\C_sharp_training\Delegates\bin\Debug\netcoreapp3.1\Delegates.exe
+C:\sandbox\C_sharp_training\Delegates\bin\Debug\netcoreapp3.1\Delegates.deps.json
+C:\sandbox\C_sharp_training\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.json
+C:\sandbox\C_sharp_training\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.dev.json
+C:\sandbox\C_sharp_training\Delegates\bin\Debug\netcoreapp3.1\Delegates.dll
+C:\sandbox\C_sharp_training\Delegates\bin\Debug\netcoreapp3.1\Delegates.pdb
+C:\sandbox\C_sharp_training\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfoInputs.cache
+C:\sandbox\C_sharp_training\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfo.cs
+C:\sandbox\C_sharp_training\Delegates\obj\Debug\netcoreapp3.1\Delegates.csproj.CoreCompileInputs.cache
+C:\sandbox\C_sharp_training\Delegates\obj\Debug\netcoreapp3.1\Delegates.dll
+C:\sandbox\C_sharp_training\Delegates\obj\Debug\netcoreapp3.1\Delegates.pdb
+C:\sandbox\C_sharp_training\Delegates\obj\Debug\netcoreapp3.1\Delegates.genruntimeconfig.cache
+C:\sandbox\C_sharp_training\Delegates\obj\Debug\netcoreapp3.1\Delegates.GeneratedMSBuildEditorConfig.editorconfig

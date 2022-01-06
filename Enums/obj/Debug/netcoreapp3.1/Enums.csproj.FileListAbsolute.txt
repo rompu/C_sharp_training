@@ -1,0 +1,27 @@
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Enums\bin\Debug\netcoreapp3.1\Enums.exe
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Enums\bin\Debug\netcoreapp3.1\Enums.deps.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.dev.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Enums\bin\Debug\netcoreapp3.1\Enums.dll
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Enums\bin\Debug\netcoreapp3.1\Enums.pdb
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Enums\obj\Debug\netcoreapp3.1\Enums.csprojAssemblyReference.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfoInputs.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfo.cs
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Enums\obj\Debug\netcoreapp3.1\Enums.csproj.CoreCompileInputs.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Enums\obj\Debug\netcoreapp3.1\Enums.dll
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Enums\obj\Debug\netcoreapp3.1\Enums.pdb
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Enums\obj\Debug\netcoreapp3.1\Enums.genruntimeconfig.cache
+C:\sandbox\C_sharp_training\Enums\bin\Debug\netcoreapp3.1\Enums.exe
+C:\sandbox\C_sharp_training\Enums\bin\Debug\netcoreapp3.1\Enums.deps.json
+C:\sandbox\C_sharp_training\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.json
+C:\sandbox\C_sharp_training\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.dev.json
+C:\sandbox\C_sharp_training\Enums\bin\Debug\netcoreapp3.1\Enums.dll
+C:\sandbox\C_sharp_training\Enums\bin\Debug\netcoreapp3.1\Enums.pdb
+C:\sandbox\C_sharp_training\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfoInputs.cache
+C:\sandbox\C_sharp_training\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfo.cs
+C:\sandbox\C_sharp_training\Enums\obj\Debug\netcoreapp3.1\Enums.csproj.CoreCompileInputs.cache
+C:\sandbox\C_sharp_training\Enums\obj\Debug\netcoreapp3.1\Enums.dll
+C:\sandbox\C_sharp_training\Enums\obj\Debug\netcoreapp3.1\Enums.pdb
+C:\sandbox\C_sharp_training\Enums\obj\Debug\netcoreapp3.1\Enums.genruntimeconfig.cache
+C:\sandbox\C_sharp_training\Enums\obj\Debug\netcoreapp3.1\Enums.csproj.AssemblyReference.cache
+C:\sandbox\C_sharp_training\Enums\obj\Debug\netcoreapp3.1\Enums.GeneratedMSBuildEditorConfig.editorconfig

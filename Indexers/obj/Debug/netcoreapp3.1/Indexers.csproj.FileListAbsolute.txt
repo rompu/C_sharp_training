@@ -1,0 +1,27 @@
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Indexers\bin\Debug\netcoreapp3.1\Indexers.exe
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Indexers\bin\Debug\netcoreapp3.1\Indexers.deps.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Indexers\bin\Debug\netcoreapp3.1\Indexers.runtimeconfig.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Indexers\bin\Debug\netcoreapp3.1\Indexers.runtimeconfig.dev.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Indexers\bin\Debug\netcoreapp3.1\Indexers.dll
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Indexers\bin\Debug\netcoreapp3.1\Indexers.pdb
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Indexers\obj\Debug\netcoreapp3.1\Indexers.AssemblyInfoInputs.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Indexers\obj\Debug\netcoreapp3.1\Indexers.AssemblyInfo.cs
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Indexers\obj\Debug\netcoreapp3.1\Indexers.csproj.CoreCompileInputs.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Indexers\obj\Debug\netcoreapp3.1\Indexers.dll
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Indexers\obj\Debug\netcoreapp3.1\Indexers.pdb
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Indexers\obj\Debug\netcoreapp3.1\Indexers.genruntimeconfig.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Indexers\obj\Debug\netcoreapp3.1\Indexers.csprojAssemblyReference.cache
+C:\sandbox\C_sharp_training\Indexers\bin\Debug\netcoreapp3.1\Indexers.exe
+C:\sandbox\C_sharp_training\Indexers\bin\Debug\netcoreapp3.1\Indexers.deps.json
+C:\sandbox\C_sharp_training\Indexers\bin\Debug\netcoreapp3.1\Indexers.runtimeconfig.json
+C:\sandbox\C_sharp_training\Indexers\bin\Debug\netcoreapp3.1\Indexers.runtimeconfig.dev.json
+C:\sandbox\C_sharp_training\Indexers\bin\Debug\netcoreapp3.1\Indexers.dll
+C:\sandbox\C_sharp_training\Indexers\bin\Debug\netcoreapp3.1\Indexers.pdb
+C:\sandbox\C_sharp_training\Indexers\obj\Debug\netcoreapp3.1\Indexers.AssemblyInfoInputs.cache
+C:\sandbox\C_sharp_training\Indexers\obj\Debug\netcoreapp3.1\Indexers.AssemblyInfo.cs
+C:\sandbox\C_sharp_training\Indexers\obj\Debug\netcoreapp3.1\Indexers.csproj.CoreCompileInputs.cache
+C:\sandbox\C_sharp_training\Indexers\obj\Debug\netcoreapp3.1\Indexers.dll
+C:\sandbox\C_sharp_training\Indexers\obj\Debug\netcoreapp3.1\Indexers.pdb
+C:\sandbox\C_sharp_training\Indexers\obj\Debug\netcoreapp3.1\Indexers.genruntimeconfig.cache
+C:\sandbox\C_sharp_training\Indexers\obj\Debug\netcoreapp3.1\Indexers.csproj.AssemblyReference.cache
+C:\sandbox\C_sharp_training\Indexers\obj\Debug\netcoreapp3.1\Indexers.GeneratedMSBuildEditorConfig.editorconfig

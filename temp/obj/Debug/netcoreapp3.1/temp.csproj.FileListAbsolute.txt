@@ -1,0 +1,41 @@
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\temp\bin\Debug\netcoreapp3.1\temp.exe
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\temp\bin\Debug\netcoreapp3.1\temp.deps.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\temp\bin\Debug\netcoreapp3.1\temp.runtimeconfig.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\temp\bin\Debug\netcoreapp3.1\temp.runtimeconfig.dev.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\temp\bin\Debug\netcoreapp3.1\temp.dll
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\temp\bin\Debug\netcoreapp3.1\temp.pdb
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\temp\obj\Debug\netcoreapp3.1\temp.AssemblyInfoInputs.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\temp\obj\Debug\netcoreapp3.1\temp.AssemblyInfo.cs
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\temp\obj\Debug\netcoreapp3.1\temp.csproj.CoreCompileInputs.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\temp\obj\Debug\netcoreapp3.1\temp.dll
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\temp\obj\Debug\netcoreapp3.1\temp.pdb
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\temp\obj\Debug\netcoreapp3.1\temp.genruntimeconfig.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\temp\obj\Debug\netcoreapp3.1\temp.csprojAssemblyReference.cache
+C:\sandbox\C_sharp_training\temp\bin\Debug\netcoreapp3.1\temp.exe
+C:\sandbox\C_sharp_training\temp\bin\Debug\netcoreapp3.1\temp.deps.json
+C:\sandbox\C_sharp_training\temp\bin\Debug\netcoreapp3.1\temp.runtimeconfig.json
+C:\sandbox\C_sharp_training\temp\bin\Debug\netcoreapp3.1\temp.runtimeconfig.dev.json
+C:\sandbox\C_sharp_training\temp\bin\Debug\netcoreapp3.1\temp.dll
+C:\sandbox\C_sharp_training\temp\bin\Debug\netcoreapp3.1\temp.pdb
+C:\sandbox\C_sharp_training\temp\obj\Debug\netcoreapp3.1\temp.AssemblyInfoInputs.cache
+C:\sandbox\C_sharp_training\temp\obj\Debug\netcoreapp3.1\temp.AssemblyInfo.cs
+C:\sandbox\C_sharp_training\temp\obj\Debug\netcoreapp3.1\temp.csproj.CoreCompileInputs.cache
+C:\sandbox\C_sharp_training\temp\obj\Debug\netcoreapp3.1\temp.dll
+C:\sandbox\C_sharp_training\temp\obj\Debug\netcoreapp3.1\temp.pdb
+C:\sandbox\C_sharp_training\temp\obj\Debug\netcoreapp3.1\temp.genruntimeconfig.cache
+C:\sandbox\C_sharp_training\temp\obj\Debug\netcoreapp3.1\temp.GeneratedMSBuildEditorConfig.editorconfig
+C:\sandbox\C_sharp_training\temp\obj\Debug\netcoreapp3.1\temp.csproj.AssemblyReference.cache
+C:\sandbox\Experiments\C_sharp_training\temp\bin\Debug\netcoreapp3.1\temp.exe
+C:\sandbox\Experiments\C_sharp_training\temp\bin\Debug\netcoreapp3.1\temp.deps.json
+C:\sandbox\Experiments\C_sharp_training\temp\bin\Debug\netcoreapp3.1\temp.runtimeconfig.json
+C:\sandbox\Experiments\C_sharp_training\temp\bin\Debug\netcoreapp3.1\temp.runtimeconfig.dev.json
+C:\sandbox\Experiments\C_sharp_training\temp\bin\Debug\netcoreapp3.1\temp.dll
+C:\sandbox\Experiments\C_sharp_training\temp\bin\Debug\netcoreapp3.1\temp.pdb
+C:\sandbox\Experiments\C_sharp_training\temp\obj\Debug\netcoreapp3.1\temp.csproj.AssemblyReference.cache
+C:\sandbox\Experiments\C_sharp_training\temp\obj\Debug\netcoreapp3.1\temp.GeneratedMSBuildEditorConfig.editorconfig
+C:\sandbox\Experiments\C_sharp_training\temp\obj\Debug\netcoreapp3.1\temp.AssemblyInfoInputs.cache
+C:\sandbox\Experiments\C_sharp_training\temp\obj\Debug\netcoreapp3.1\temp.AssemblyInfo.cs
+C:\sandbox\Experiments\C_sharp_training\temp\obj\Debug\netcoreapp3.1\temp.csproj.CoreCompileInputs.cache
+C:\sandbox\Experiments\C_sharp_training\temp\obj\Debug\netcoreapp3.1\temp.dll
+C:\sandbox\Experiments\C_sharp_training\temp\obj\Debug\netcoreapp3.1\temp.pdb
+C:\sandbox\Experiments\C_sharp_training\temp\obj\Debug\netcoreapp3.1\temp.genruntimeconfig.cache

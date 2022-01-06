@@ -1,0 +1,13 @@
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\LINQ\bin\Debug\netcoreapp3.1\LINQ.exe
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\LINQ\bin\Debug\netcoreapp3.1\LINQ.deps.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\LINQ\bin\Debug\netcoreapp3.1\LINQ.runtimeconfig.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\LINQ\bin\Debug\netcoreapp3.1\LINQ.runtimeconfig.dev.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\LINQ\bin\Debug\netcoreapp3.1\LINQ.dll
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\LINQ\bin\Debug\netcoreapp3.1\LINQ.pdb
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\LINQ\obj\Debug\netcoreapp3.1\LINQ.csprojAssemblyReference.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\LINQ\obj\Debug\netcoreapp3.1\LINQ.AssemblyInfoInputs.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\LINQ\obj\Debug\netcoreapp3.1\LINQ.AssemblyInfo.cs
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\LINQ\obj\Debug\netcoreapp3.1\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\LINQ\obj\Debug\netcoreapp3.1\LINQ.dll
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\LINQ\obj\Debug\netcoreapp3.1\LINQ.pdb
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\LINQ\obj\Debug\netcoreapp3.1\LINQ.genruntimeconfig.cache

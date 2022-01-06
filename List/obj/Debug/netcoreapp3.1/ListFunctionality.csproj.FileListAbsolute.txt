@@ -1,0 +1,25 @@
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\List\bin\Debug\netcoreapp3.1\ListFunctionality.exe
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\List\bin\Debug\netcoreapp3.1\ListFunctionality.deps.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\List\bin\Debug\netcoreapp3.1\ListFunctionality.runtimeconfig.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\List\bin\Debug\netcoreapp3.1\ListFunctionality.runtimeconfig.dev.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\List\bin\Debug\netcoreapp3.1\ListFunctionality.dll
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\List\bin\Debug\netcoreapp3.1\ListFunctionality.pdb
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\List\obj\Debug\netcoreapp3.1\ListFunctionality.AssemblyInfoInputs.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\List\obj\Debug\netcoreapp3.1\ListFunctionality.AssemblyInfo.cs
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\List\obj\Debug\netcoreapp3.1\ListFunctionality.csproj.CoreCompileInputs.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\List\obj\Debug\netcoreapp3.1\ListFunctionality.dll
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\List\obj\Debug\netcoreapp3.1\ListFunctionality.pdb
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\List\obj\Debug\netcoreapp3.1\ListFunctionality.genruntimeconfig.cache
+C:\sandbox\C_sharp_training\List\bin\Debug\netcoreapp3.1\ListFunctionality.exe
+C:\sandbox\C_sharp_training\List\bin\Debug\netcoreapp3.1\ListFunctionality.deps.json
+C:\sandbox\C_sharp_training\List\bin\Debug\netcoreapp3.1\ListFunctionality.runtimeconfig.json
+C:\sandbox\C_sharp_training\List\bin\Debug\netcoreapp3.1\ListFunctionality.runtimeconfig.dev.json
+C:\sandbox\C_sharp_training\List\bin\Debug\netcoreapp3.1\ListFunctionality.dll
+C:\sandbox\C_sharp_training\List\bin\Debug\netcoreapp3.1\ListFunctionality.pdb
+C:\sandbox\C_sharp_training\List\obj\Debug\netcoreapp3.1\ListFunctionality.AssemblyInfoInputs.cache
+C:\sandbox\C_sharp_training\List\obj\Debug\netcoreapp3.1\ListFunctionality.AssemblyInfo.cs
+C:\sandbox\C_sharp_training\List\obj\Debug\netcoreapp3.1\ListFunctionality.csproj.CoreCompileInputs.cache
+C:\sandbox\C_sharp_training\List\obj\Debug\netcoreapp3.1\ListFunctionality.dll
+C:\sandbox\C_sharp_training\List\obj\Debug\netcoreapp3.1\ListFunctionality.pdb
+C:\sandbox\C_sharp_training\List\obj\Debug\netcoreapp3.1\ListFunctionality.genruntimeconfig.cache
+C:\sandbox\C_sharp_training\List\obj\Debug\netcoreapp3.1\ListFunctionality.GeneratedMSBuildEditorConfig.editorconfig

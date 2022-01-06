@@ -1,0 +1,26 @@
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Events\bin\Debug\netcoreapp3.1\Events.exe
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Events\bin\Debug\netcoreapp3.1\Events.deps.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Events\bin\Debug\netcoreapp3.1\Events.runtimeconfig.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Events\bin\Debug\netcoreapp3.1\Events.runtimeconfig.dev.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Events\bin\Debug\netcoreapp3.1\Events.dll
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Events\bin\Debug\netcoreapp3.1\Events.pdb
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfoInputs.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfo.cs
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Events\obj\Debug\netcoreapp3.1\Events.csproj.CoreCompileInputs.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Events\obj\Debug\netcoreapp3.1\Events.dll
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Events\obj\Debug\netcoreapp3.1\Events.pdb
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Events\obj\Debug\netcoreapp3.1\Events.genruntimeconfig.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Events\obj\Debug\netcoreapp3.1\Events.csprojAssemblyReference.cache
+C:\sandbox\C_sharp_training\Events\bin\Debug\netcoreapp3.1\Events.exe
+C:\sandbox\C_sharp_training\Events\bin\Debug\netcoreapp3.1\Events.deps.json
+C:\sandbox\C_sharp_training\Events\bin\Debug\netcoreapp3.1\Events.runtimeconfig.json
+C:\sandbox\C_sharp_training\Events\bin\Debug\netcoreapp3.1\Events.runtimeconfig.dev.json
+C:\sandbox\C_sharp_training\Events\bin\Debug\netcoreapp3.1\Events.dll
+C:\sandbox\C_sharp_training\Events\bin\Debug\netcoreapp3.1\Events.pdb
+C:\sandbox\C_sharp_training\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfoInputs.cache
+C:\sandbox\C_sharp_training\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfo.cs
+C:\sandbox\C_sharp_training\Events\obj\Debug\netcoreapp3.1\Events.csproj.CoreCompileInputs.cache
+C:\sandbox\C_sharp_training\Events\obj\Debug\netcoreapp3.1\Events.dll
+C:\sandbox\C_sharp_training\Events\obj\Debug\netcoreapp3.1\Events.pdb
+C:\sandbox\C_sharp_training\Events\obj\Debug\netcoreapp3.1\Events.genruntimeconfig.cache
+C:\sandbox\C_sharp_training\Events\obj\Debug\netcoreapp3.1\Events.GeneratedMSBuildEditorConfig.editorconfig

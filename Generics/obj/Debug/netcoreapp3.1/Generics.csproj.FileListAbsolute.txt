@@ -1,0 +1,27 @@
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Generics\bin\Debug\netcoreapp3.1\Generics.exe
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Generics\bin\Debug\netcoreapp3.1\Generics.deps.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.dev.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Generics\bin\Debug\netcoreapp3.1\Generics.dll
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Generics\bin\Debug\netcoreapp3.1\Generics.pdb
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfoInputs.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfo.cs
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Generics\obj\Debug\netcoreapp3.1\Generics.csproj.CoreCompileInputs.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Generics\obj\Debug\netcoreapp3.1\Generics.dll
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Generics\obj\Debug\netcoreapp3.1\Generics.pdb
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Generics\obj\Debug\netcoreapp3.1\Generics.genruntimeconfig.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Generics\obj\Debug\netcoreapp3.1\Generics.csprojAssemblyReference.cache
+C:\sandbox\C_sharp_training\Generics\bin\Debug\netcoreapp3.1\Generics.exe
+C:\sandbox\C_sharp_training\Generics\bin\Debug\netcoreapp3.1\Generics.deps.json
+C:\sandbox\C_sharp_training\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.json
+C:\sandbox\C_sharp_training\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.dev.json
+C:\sandbox\C_sharp_training\Generics\bin\Debug\netcoreapp3.1\Generics.dll
+C:\sandbox\C_sharp_training\Generics\bin\Debug\netcoreapp3.1\Generics.pdb
+C:\sandbox\C_sharp_training\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfoInputs.cache
+C:\sandbox\C_sharp_training\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfo.cs
+C:\sandbox\C_sharp_training\Generics\obj\Debug\netcoreapp3.1\Generics.csproj.CoreCompileInputs.cache
+C:\sandbox\C_sharp_training\Generics\obj\Debug\netcoreapp3.1\Generics.dll
+C:\sandbox\C_sharp_training\Generics\obj\Debug\netcoreapp3.1\Generics.pdb
+C:\sandbox\C_sharp_training\Generics\obj\Debug\netcoreapp3.1\Generics.genruntimeconfig.cache
+C:\sandbox\C_sharp_training\Generics\obj\Debug\netcoreapp3.1\Generics.csproj.AssemblyReference.cache
+C:\sandbox\C_sharp_training\Generics\obj\Debug\netcoreapp3.1\Generics.GeneratedMSBuildEditorConfig.editorconfig

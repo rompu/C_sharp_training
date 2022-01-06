@@ -1,0 +1,13 @@
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Extension methods\bin\Debug\netcoreapp3.1\Extension methods.exe
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Extension methods\bin\Debug\netcoreapp3.1\Extension methods.deps.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Extension methods\bin\Debug\netcoreapp3.1\Extension methods.runtimeconfig.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Extension methods\bin\Debug\netcoreapp3.1\Extension methods.runtimeconfig.dev.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Extension methods\bin\Debug\netcoreapp3.1\Extension methods.dll
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Extension methods\bin\Debug\netcoreapp3.1\Extension methods.pdb
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Extension methods\obj\Debug\netcoreapp3.1\Extension methods.AssemblyInfoInputs.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Extension methods\obj\Debug\netcoreapp3.1\Extension methods.AssemblyInfo.cs
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Extension methods\obj\Debug\netcoreapp3.1\Extension methods.csproj.CoreCompileInputs.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Extension methods\obj\Debug\netcoreapp3.1\Extension methods.dll
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Extension methods\obj\Debug\netcoreapp3.1\Extension methods.pdb
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Extension methods\obj\Debug\netcoreapp3.1\Extension methods.genruntimeconfig.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Extension methods\obj\Debug\netcoreapp3.1\Extension methods.csprojAssemblyReference.cache

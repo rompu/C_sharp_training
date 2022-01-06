@@ -1,0 +1,26 @@
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.exe
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.dev.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.genruntimeconfig.cache
+C:\sandbox\C_sharp_training\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.exe
+C:\sandbox\C_sharp_training\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+C:\sandbox\C_sharp_training\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.json
+C:\sandbox\C_sharp_training\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.dev.json
+C:\sandbox\C_sharp_training\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\sandbox\C_sharp_training\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\sandbox\C_sharp_training\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+C:\sandbox\C_sharp_training\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+C:\sandbox\C_sharp_training\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+C:\sandbox\C_sharp_training\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+C:\sandbox\C_sharp_training\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb
+C:\sandbox\C_sharp_training\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.genruntimeconfig.cache
+C:\sandbox\C_sharp_training\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.AssemblyReference.cache
+C:\sandbox\C_sharp_training\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.GeneratedMSBuildEditorConfig.editorconfig

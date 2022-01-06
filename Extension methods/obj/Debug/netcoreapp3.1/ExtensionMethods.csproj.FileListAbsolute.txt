@@ -1,0 +1,25 @@
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Extension methods\bin\Debug\netcoreapp3.1\ExtensionMethods.exe
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Extension methods\bin\Debug\netcoreapp3.1\ExtensionMethods.deps.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Extension methods\bin\Debug\netcoreapp3.1\ExtensionMethods.runtimeconfig.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Extension methods\bin\Debug\netcoreapp3.1\ExtensionMethods.runtimeconfig.dev.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Extension methods\bin\Debug\netcoreapp3.1\ExtensionMethods.dll
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Extension methods\bin\Debug\netcoreapp3.1\ExtensionMethods.pdb
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Extension methods\obj\Debug\netcoreapp3.1\ExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Extension methods\obj\Debug\netcoreapp3.1\ExtensionMethods.AssemblyInfo.cs
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Extension methods\obj\Debug\netcoreapp3.1\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Extension methods\obj\Debug\netcoreapp3.1\ExtensionMethods.dll
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Extension methods\obj\Debug\netcoreapp3.1\ExtensionMethods.pdb
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Extension methods\obj\Debug\netcoreapp3.1\ExtensionMethods.genruntimeconfig.cache
+C:\sandbox\C_sharp_training\Extension methods\bin\Debug\netcoreapp3.1\ExtensionMethods.exe
+C:\sandbox\C_sharp_training\Extension methods\bin\Debug\netcoreapp3.1\ExtensionMethods.deps.json
+C:\sandbox\C_sharp_training\Extension methods\bin\Debug\netcoreapp3.1\ExtensionMethods.runtimeconfig.json
+C:\sandbox\C_sharp_training\Extension methods\bin\Debug\netcoreapp3.1\ExtensionMethods.runtimeconfig.dev.json
+C:\sandbox\C_sharp_training\Extension methods\bin\Debug\netcoreapp3.1\ExtensionMethods.dll
+C:\sandbox\C_sharp_training\Extension methods\bin\Debug\netcoreapp3.1\ExtensionMethods.pdb
+C:\sandbox\C_sharp_training\Extension methods\obj\Debug\netcoreapp3.1\ExtensionMethods.AssemblyInfoInputs.cache
+C:\sandbox\C_sharp_training\Extension methods\obj\Debug\netcoreapp3.1\ExtensionMethods.AssemblyInfo.cs
+C:\sandbox\C_sharp_training\Extension methods\obj\Debug\netcoreapp3.1\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\sandbox\C_sharp_training\Extension methods\obj\Debug\netcoreapp3.1\ExtensionMethods.dll
+C:\sandbox\C_sharp_training\Extension methods\obj\Debug\netcoreapp3.1\ExtensionMethods.pdb
+C:\sandbox\C_sharp_training\Extension methods\obj\Debug\netcoreapp3.1\ExtensionMethods.genruntimeconfig.cache
+C:\sandbox\C_sharp_training\Extension methods\obj\Debug\netcoreapp3.1\ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig

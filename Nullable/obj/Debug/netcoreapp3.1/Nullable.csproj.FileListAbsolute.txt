@@ -1,0 +1,25 @@
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Nullable\bin\Debug\netcoreapp3.1\Nullable.exe
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Nullable\bin\Debug\netcoreapp3.1\Nullable.deps.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Nullable\bin\Debug\netcoreapp3.1\Nullable.runtimeconfig.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Nullable\bin\Debug\netcoreapp3.1\Nullable.runtimeconfig.dev.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Nullable\bin\Debug\netcoreapp3.1\Nullable.dll
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Nullable\bin\Debug\netcoreapp3.1\Nullable.pdb
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Nullable\obj\Debug\netcoreapp3.1\Nullable.AssemblyInfoInputs.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Nullable\obj\Debug\netcoreapp3.1\Nullable.AssemblyInfo.cs
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Nullable\obj\Debug\netcoreapp3.1\Nullable.csproj.CoreCompileInputs.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Nullable\obj\Debug\netcoreapp3.1\Nullable.dll
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Nullable\obj\Debug\netcoreapp3.1\Nullable.pdb
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Nullable\obj\Debug\netcoreapp3.1\Nullable.genruntimeconfig.cache
+C:\sandbox\C_sharp_training\Nullable\bin\Debug\netcoreapp3.1\Nullable.exe
+C:\sandbox\C_sharp_training\Nullable\bin\Debug\netcoreapp3.1\Nullable.deps.json
+C:\sandbox\C_sharp_training\Nullable\bin\Debug\netcoreapp3.1\Nullable.runtimeconfig.json
+C:\sandbox\C_sharp_training\Nullable\bin\Debug\netcoreapp3.1\Nullable.runtimeconfig.dev.json
+C:\sandbox\C_sharp_training\Nullable\bin\Debug\netcoreapp3.1\Nullable.dll
+C:\sandbox\C_sharp_training\Nullable\bin\Debug\netcoreapp3.1\Nullable.pdb
+C:\sandbox\C_sharp_training\Nullable\obj\Debug\netcoreapp3.1\Nullable.AssemblyInfoInputs.cache
+C:\sandbox\C_sharp_training\Nullable\obj\Debug\netcoreapp3.1\Nullable.AssemblyInfo.cs
+C:\sandbox\C_sharp_training\Nullable\obj\Debug\netcoreapp3.1\Nullable.csproj.CoreCompileInputs.cache
+C:\sandbox\C_sharp_training\Nullable\obj\Debug\netcoreapp3.1\Nullable.dll
+C:\sandbox\C_sharp_training\Nullable\obj\Debug\netcoreapp3.1\Nullable.pdb
+C:\sandbox\C_sharp_training\Nullable\obj\Debug\netcoreapp3.1\Nullable.genruntimeconfig.cache
+C:\sandbox\C_sharp_training\Nullable\obj\Debug\netcoreapp3.1\Nullable.GeneratedMSBuildEditorConfig.editorconfig

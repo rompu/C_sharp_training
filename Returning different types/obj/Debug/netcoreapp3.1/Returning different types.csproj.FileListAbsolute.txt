@@ -1,0 +1,13 @@
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Returning different types\bin\Debug\netcoreapp3.1\Returning different types.exe
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Returning different types\bin\Debug\netcoreapp3.1\Returning different types.deps.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Returning different types\bin\Debug\netcoreapp3.1\Returning different types.runtimeconfig.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Returning different types\bin\Debug\netcoreapp3.1\Returning different types.runtimeconfig.dev.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Returning different types\bin\Debug\netcoreapp3.1\Returning different types.dll
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Returning different types\bin\Debug\netcoreapp3.1\Returning different types.pdb
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Returning different types\obj\Debug\netcoreapp3.1\Returning different types.csprojAssemblyReference.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Returning different types\obj\Debug\netcoreapp3.1\Returning different types.AssemblyInfoInputs.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Returning different types\obj\Debug\netcoreapp3.1\Returning different types.AssemblyInfo.cs
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Returning different types\obj\Debug\netcoreapp3.1\Returning different types.csproj.CoreCompileInputs.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Returning different types\obj\Debug\netcoreapp3.1\Returning different types.dll
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Returning different types\obj\Debug\netcoreapp3.1\Returning different types.pdb
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Returning different types\obj\Debug\netcoreapp3.1\Returning different types.genruntimeconfig.cache

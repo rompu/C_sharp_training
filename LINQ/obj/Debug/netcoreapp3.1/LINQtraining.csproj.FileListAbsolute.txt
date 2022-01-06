@@ -1,0 +1,4 @@
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\LINQ\obj\Debug\netcoreapp3.1\LINQtraining.csprojAssemblyReference.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\LINQ\obj\Debug\netcoreapp3.1\LINQtraining.AssemblyInfoInputs.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\LINQ\obj\Debug\netcoreapp3.1\LINQtraining.AssemblyInfo.cs
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\LINQ\obj\Debug\netcoreapp3.1\LINQtraining.csproj.CoreCompileInputs.cache

@@ -1,0 +1,45 @@
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\UITraining\obj\Debug\UITraining.csprojAssemblyReference.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\UITraining\obj\Debug\MainWindow.g.cs
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\UITraining\obj\Debug\App.g.cs
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\UITraining\obj\Debug\UITraining_MarkupCompile.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\UITraining\obj\Debug\UITraining_MarkupCompile.lref
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\UITraining\bin\Debug\UITraining.exe.config
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\UITraining\bin\Debug\UITraining.exe
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\UITraining\bin\Debug\UITraining.pdb
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\UITraining\obj\Debug\MainWindow.baml
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\UITraining\obj\Debug\UITraining.g.resources
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\UITraining\obj\Debug\UITraining.Properties.Resources.resources
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\UITraining\obj\Debug\UITraining.csproj.GenerateResource.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\UITraining\obj\Debug\UITraining.csproj.CoreCompileInputs.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\UITraining\obj\Debug\UITraining.exe
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\UITraining\obj\Debug\UITraining.pdb
+C:\sandbox\C_sharp_training\UITraining\bin\Debug\UITraining.exe.config
+C:\sandbox\C_sharp_training\UITraining\bin\Debug\UITraining.exe
+C:\sandbox\C_sharp_training\UITraining\bin\Debug\UITraining.pdb
+C:\sandbox\C_sharp_training\UITraining\obj\Debug\UITraining.csprojAssemblyReference.cache
+C:\sandbox\C_sharp_training\UITraining\obj\Debug\MainWindow.g.cs
+C:\sandbox\C_sharp_training\UITraining\obj\Debug\App.g.cs
+C:\sandbox\C_sharp_training\UITraining\obj\Debug\UITraining_MarkupCompile.cache
+C:\sandbox\C_sharp_training\UITraining\obj\Debug\UITraining_MarkupCompile.lref
+C:\sandbox\C_sharp_training\UITraining\obj\Debug\MainWindow.baml
+C:\sandbox\C_sharp_training\UITraining\obj\Debug\UITraining.g.resources
+C:\sandbox\C_sharp_training\UITraining\obj\Debug\UITraining.Properties.Resources.resources
+C:\sandbox\C_sharp_training\UITraining\obj\Debug\UITraining.csproj.GenerateResource.cache
+C:\sandbox\C_sharp_training\UITraining\obj\Debug\UITraining.csproj.CoreCompileInputs.cache
+C:\sandbox\C_sharp_training\UITraining\obj\Debug\UITraining.exe
+C:\sandbox\C_sharp_training\UITraining\obj\Debug\UITraining.pdb
+C:\sandbox\Experiments\C_sharp_training\UITraining\bin\Debug\UITraining.exe.config
+C:\sandbox\Experiments\C_sharp_training\UITraining\bin\Debug\UITraining.exe
+C:\sandbox\Experiments\C_sharp_training\UITraining\bin\Debug\UITraining.pdb
+C:\sandbox\Experiments\C_sharp_training\UITraining\obj\Debug\UITraining.csproj.AssemblyReference.cache
+C:\sandbox\Experiments\C_sharp_training\UITraining\obj\Debug\MainWindow.g.cs
+C:\sandbox\Experiments\C_sharp_training\UITraining\obj\Debug\App.g.cs
+C:\sandbox\Experiments\C_sharp_training\UITraining\obj\Debug\UITraining_MarkupCompile.cache
+C:\sandbox\Experiments\C_sharp_training\UITraining\obj\Debug\UITraining_MarkupCompile.lref
+C:\sandbox\Experiments\C_sharp_training\UITraining\obj\Debug\MainWindow.baml
+C:\sandbox\Experiments\C_sharp_training\UITraining\obj\Debug\UITraining.g.resources
+C:\sandbox\Experiments\C_sharp_training\UITraining\obj\Debug\UITraining.Properties.Resources.resources
+C:\sandbox\Experiments\C_sharp_training\UITraining\obj\Debug\UITraining.csproj.GenerateResource.cache
+C:\sandbox\Experiments\C_sharp_training\UITraining\obj\Debug\UITraining.csproj.CoreCompileInputs.cache
+C:\sandbox\Experiments\C_sharp_training\UITraining\obj\Debug\UITraining.exe
+C:\sandbox\Experiments\C_sharp_training\UITraining\obj\Debug\UITraining.pdb

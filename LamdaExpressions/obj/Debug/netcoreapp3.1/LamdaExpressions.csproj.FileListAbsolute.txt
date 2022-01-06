@@ -1,0 +1,13 @@
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\LamdaExpressions\bin\Debug\netcoreapp3.1\LamdaExpressions.exe
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\LamdaExpressions\bin\Debug\netcoreapp3.1\LamdaExpressions.deps.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\LamdaExpressions\bin\Debug\netcoreapp3.1\LamdaExpressions.runtimeconfig.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\LamdaExpressions\bin\Debug\netcoreapp3.1\LamdaExpressions.runtimeconfig.dev.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\LamdaExpressions\bin\Debug\netcoreapp3.1\LamdaExpressions.dll
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\LamdaExpressions\bin\Debug\netcoreapp3.1\LamdaExpressions.pdb
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\LamdaExpressions\obj\Debug\netcoreapp3.1\LamdaExpressions.AssemblyInfoInputs.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\LamdaExpressions\obj\Debug\netcoreapp3.1\LamdaExpressions.AssemblyInfo.cs
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\LamdaExpressions\obj\Debug\netcoreapp3.1\LamdaExpressions.csproj.CoreCompileInputs.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\LamdaExpressions\obj\Debug\netcoreapp3.1\LamdaExpressions.dll
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\LamdaExpressions\obj\Debug\netcoreapp3.1\LamdaExpressions.pdb
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\LamdaExpressions\obj\Debug\netcoreapp3.1\LamdaExpressions.genruntimeconfig.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\LamdaExpressions\obj\Debug\netcoreapp3.1\LamdaExpressions.csprojAssemblyReference.cache

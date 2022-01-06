@@ -1,0 +1,25 @@
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Base\bin\Debug\netcoreapp3.1\Base.exe
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Base\bin\Debug\netcoreapp3.1\Base.deps.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Base\bin\Debug\netcoreapp3.1\Base.runtimeconfig.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Base\bin\Debug\netcoreapp3.1\Base.runtimeconfig.dev.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Base\bin\Debug\netcoreapp3.1\Base.dll
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Base\bin\Debug\netcoreapp3.1\Base.pdb
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Base\obj\Debug\netcoreapp3.1\Base.AssemblyInfoInputs.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Base\obj\Debug\netcoreapp3.1\Base.AssemblyInfo.cs
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Base\obj\Debug\netcoreapp3.1\Base.csproj.CoreCompileInputs.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Base\obj\Debug\netcoreapp3.1\Base.dll
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Base\obj\Debug\netcoreapp3.1\Base.pdb
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Base\obj\Debug\netcoreapp3.1\Base.genruntimeconfig.cache
+C:\sandbox\C_sharp_training\Base\bin\Debug\netcoreapp3.1\Base.exe
+C:\sandbox\C_sharp_training\Base\bin\Debug\netcoreapp3.1\Base.deps.json
+C:\sandbox\C_sharp_training\Base\bin\Debug\netcoreapp3.1\Base.runtimeconfig.json
+C:\sandbox\C_sharp_training\Base\bin\Debug\netcoreapp3.1\Base.runtimeconfig.dev.json
+C:\sandbox\C_sharp_training\Base\bin\Debug\netcoreapp3.1\Base.dll
+C:\sandbox\C_sharp_training\Base\bin\Debug\netcoreapp3.1\Base.pdb
+C:\sandbox\C_sharp_training\Base\obj\Debug\netcoreapp3.1\Base.AssemblyInfoInputs.cache
+C:\sandbox\C_sharp_training\Base\obj\Debug\netcoreapp3.1\Base.AssemblyInfo.cs
+C:\sandbox\C_sharp_training\Base\obj\Debug\netcoreapp3.1\Base.csproj.CoreCompileInputs.cache
+C:\sandbox\C_sharp_training\Base\obj\Debug\netcoreapp3.1\Base.dll
+C:\sandbox\C_sharp_training\Base\obj\Debug\netcoreapp3.1\Base.pdb
+C:\sandbox\C_sharp_training\Base\obj\Debug\netcoreapp3.1\Base.genruntimeconfig.cache
+C:\sandbox\C_sharp_training\Base\obj\Debug\netcoreapp3.1\Base.GeneratedMSBuildEditorConfig.editorconfig

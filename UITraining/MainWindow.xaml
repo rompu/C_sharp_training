@@ -1,0 +1,28 @@
+﻿<Window x:Class="UITraining.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UITraining" xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation"
+        mc:Ignorable="d"
+        Title="Main testwindow" Height="350" Width="500" Icon="./Icons/NapaToolsIcon.ico" MouseMove="Window_MouseMove">
+    <Window.Resources>
+        <sys:String x:Key="HelloAgain">Hej igen</sys:String>
+
+        <Style TargetType="Button">
+            <Setter Property="Margin" Value="1"/>
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="FontFamily" Value="Times New Roman"/>
+        </Style>
+    </Window.Resources>
+    <StackPanel Orientation="Vertical">
+        <TextBlock HorizontalAlignment="Center" TextWrapping="NoWrap" Text="Hej världen" VerticalAlignment="Top" FontSize="20" />
+        <TextBlock HorizontalAlignment="Center" TextWrapping="NoWrap" Text="{StaticResource HelloAgain}" FontSize="20"/>
+        <Button x:Name="Button1" Content="Close window" Height="30" Width="200" Click="Button1_Click"/>
+        <Button x:Name="ButtonOpenFile" Content="Open file" Height="30" Width="200" Click="ButtonOpenFile_Click"/>
+        <Button x:Name="ButtonSaveFile" Content="Save file" Height="30" Width="200" Click="ButtonSaveFile_Click"/>
+
+    </StackPanel>
+</Window>

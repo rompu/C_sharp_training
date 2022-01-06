@@ -1,0 +1,16 @@
+C:\sandbox\C_sharp_training\DataTableTesting\bin\Debug\net5.0\DataTableTesting.exe
+C:\sandbox\C_sharp_training\DataTableTesting\bin\Debug\net5.0\DataTableTesting.deps.json
+C:\sandbox\C_sharp_training\DataTableTesting\bin\Debug\net5.0\DataTableTesting.runtimeconfig.json
+C:\sandbox\C_sharp_training\DataTableTesting\bin\Debug\net5.0\DataTableTesting.runtimeconfig.dev.json
+C:\sandbox\C_sharp_training\DataTableTesting\bin\Debug\net5.0\DataTableTesting.dll
+C:\sandbox\C_sharp_training\DataTableTesting\bin\Debug\net5.0\ref\DataTableTesting.dll
+C:\sandbox\C_sharp_training\DataTableTesting\bin\Debug\net5.0\DataTableTesting.pdb
+C:\sandbox\C_sharp_training\DataTableTesting\obj\Debug\net5.0\DataTableTesting.csproj.AssemblyReference.cache
+C:\sandbox\C_sharp_training\DataTableTesting\obj\Debug\net5.0\DataTableTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\sandbox\C_sharp_training\DataTableTesting\obj\Debug\net5.0\DataTableTesting.AssemblyInfoInputs.cache
+C:\sandbox\C_sharp_training\DataTableTesting\obj\Debug\net5.0\DataTableTesting.AssemblyInfo.cs
+C:\sandbox\C_sharp_training\DataTableTesting\obj\Debug\net5.0\DataTableTesting.csproj.CoreCompileInputs.cache
+C:\sandbox\C_sharp_training\DataTableTesting\obj\Debug\net5.0\DataTableTesting.dll
+C:\sandbox\C_sharp_training\DataTableTesting\obj\Debug\net5.0\ref\DataTableTesting.dll
+C:\sandbox\C_sharp_training\DataTableTesting\obj\Debug\net5.0\DataTableTesting.pdb
+C:\sandbox\C_sharp_training\DataTableTesting\obj\Debug\net5.0\DataTableTesting.genruntimeconfig.cache

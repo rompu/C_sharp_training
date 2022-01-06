@@ -1,0 +1,27 @@
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Properties\bin\Debug\netcoreapp3.1\Properties.exe
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Properties\bin\Debug\netcoreapp3.1\Properties.deps.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.dev.json
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Properties\bin\Debug\netcoreapp3.1\Properties.dll
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Properties\bin\Debug\netcoreapp3.1\Properties.pdb
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfoInputs.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfo.cs
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Properties\obj\Debug\netcoreapp3.1\Properties.csproj.CoreCompileInputs.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Properties\obj\Debug\netcoreapp3.1\Properties.dll
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Properties\obj\Debug\netcoreapp3.1\Properties.pdb
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Properties\obj\Debug\netcoreapp3.1\Properties.genruntimeconfig.cache
+C:\Users\xbrinkr\Documents\Visual Studio 2019\C_sharp_training\Properties\obj\Debug\netcoreapp3.1\Properties.csprojAssemblyReference.cache
+C:\sandbox\C_sharp_training\Properties\bin\Debug\netcoreapp3.1\Properties.exe
+C:\sandbox\C_sharp_training\Properties\bin\Debug\netcoreapp3.1\Properties.deps.json
+C:\sandbox\C_sharp_training\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.json
+C:\sandbox\C_sharp_training\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.dev.json
+C:\sandbox\C_sharp_training\Properties\bin\Debug\netcoreapp3.1\Properties.dll
+C:\sandbox\C_sharp_training\Properties\bin\Debug\netcoreapp3.1\Properties.pdb
+C:\sandbox\C_sharp_training\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfoInputs.cache
+C:\sandbox\C_sharp_training\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfo.cs
+C:\sandbox\C_sharp_training\Properties\obj\Debug\netcoreapp3.1\Properties.csproj.CoreCompileInputs.cache
+C:\sandbox\C_sharp_training\Properties\obj\Debug\netcoreapp3.1\Properties.dll
+C:\sandbox\C_sharp_training\Properties\obj\Debug\netcoreapp3.1\Properties.pdb
+C:\sandbox\C_sharp_training\Properties\obj\Debug\netcoreapp3.1\Properties.genruntimeconfig.cache
+C:\sandbox\C_sharp_training\Properties\obj\Debug\netcoreapp3.1\Properties.csproj.AssemblyReference.cache
+C:\sandbox\C_sharp_training\Properties\obj\Debug\netcoreapp3.1\Properties.GeneratedMSBuildEditorConfig.editorconfig
