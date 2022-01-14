@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\sandbox\\Experiments\\C_sharp_training\\Indexers\\Indexers.csproj": {}
+    "C:\\Users\\xbrinkr\\OneDrive - Napa LTD\\Documents\\Repositories\\C_sharp_training\\Indexers\\Indexers.csproj": {}
   },
   "projects": {
-    "C:\\sandbox\\Experiments\\C_sharp_training\\Indexers\\Indexers.csproj": {
+    "C:\\Users\\xbrinkr\\OneDrive - Napa LTD\\Documents\\Repositories\\C_sharp_training\\Indexers\\Indexers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\sandbox\\Experiments\\C_sharp_training\\Indexers\\Indexers.csproj",
+        "projectUniqueName": "C:\\Users\\xbrinkr\\OneDrive - Napa LTD\\Documents\\Repositories\\C_sharp_training\\Indexers\\Indexers.csproj",
         "projectName": "Indexers",
-        "projectPath": "C:\\sandbox\\Experiments\\C_sharp_training\\Indexers\\Indexers.csproj",
+        "projectPath": "C:\\Users\\xbrinkr\\OneDrive - Napa LTD\\Documents\\Repositories\\C_sharp_training\\Indexers\\Indexers.csproj",
         "packagesPath": "C:\\Users\\xbrinkr\\.nuget\\packages\\",
-        "outputPath": "C:\\sandbox\\Experiments\\C_sharp_training\\Indexers\\obj\\",
+        "outputPath": "C:\\Users\\xbrinkr\\OneDrive - Napa LTD\\Documents\\Repositories\\C_sharp_training\\Indexers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

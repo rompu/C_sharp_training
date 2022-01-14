@@ -24,3 +24,16 @@ C:\sandbox\C_sharp_training\Events2\obj\Debug\netcoreapp3.1\Events2.dll
 C:\sandbox\C_sharp_training\Events2\obj\Debug\netcoreapp3.1\Events2.pdb
 C:\sandbox\C_sharp_training\Events2\obj\Debug\netcoreapp3.1\Events2.genruntimeconfig.cache
 C:\sandbox\C_sharp_training\Events2\obj\Debug\netcoreapp3.1\Events2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Events2\bin\Debug\netcoreapp3.1\Events2.exe
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Events2\bin\Debug\netcoreapp3.1\Events2.deps.json
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Events2\bin\Debug\netcoreapp3.1\Events2.runtimeconfig.json
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Events2\bin\Debug\netcoreapp3.1\Events2.runtimeconfig.dev.json
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Events2\bin\Debug\netcoreapp3.1\Events2.dll
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Events2\bin\Debug\netcoreapp3.1\Events2.pdb
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Events2\obj\Debug\netcoreapp3.1\Events2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Events2\obj\Debug\netcoreapp3.1\Events2.AssemblyInfoInputs.cache
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Events2\obj\Debug\netcoreapp3.1\Events2.AssemblyInfo.cs
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Events2\obj\Debug\netcoreapp3.1\Events2.csproj.CoreCompileInputs.cache
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Events2\obj\Debug\netcoreapp3.1\Events2.dll
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Events2\obj\Debug\netcoreapp3.1\Events2.pdb
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Events2\obj\Debug\netcoreapp3.1\Events2.genruntimeconfig.cache

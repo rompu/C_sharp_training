@@ -55,11 +55,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\sandbox\\Experiments\\C_sharp_training\\Serilaization\\Serialization.csproj",
+      "projectUniqueName": "C:\\Users\\xbrinkr\\OneDrive - Napa LTD\\Documents\\Repositories\\C_sharp_training\\Serilaization\\Serialization.csproj",
       "projectName": "Serialization",
-      "projectPath": "C:\\sandbox\\Experiments\\C_sharp_training\\Serilaization\\Serialization.csproj",
+      "projectPath": "C:\\Users\\xbrinkr\\OneDrive - Napa LTD\\Documents\\Repositories\\C_sharp_training\\Serilaization\\Serialization.csproj",
       "packagesPath": "C:\\Users\\xbrinkr\\.nuget\\packages\\",
-      "outputPath": "C:\\sandbox\\Experiments\\C_sharp_training\\Serilaization\\obj\\",
+      "outputPath": "C:\\Users\\xbrinkr\\OneDrive - Napa LTD\\Documents\\Repositories\\C_sharp_training\\Serilaization\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

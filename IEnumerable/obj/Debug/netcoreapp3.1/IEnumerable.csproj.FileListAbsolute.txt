@@ -23,3 +23,16 @@ C:\sandbox\C_sharp_training\IEnumerable\obj\Debug\netcoreapp3.1\IEnumerable.dll
 C:\sandbox\C_sharp_training\IEnumerable\obj\Debug\netcoreapp3.1\IEnumerable.pdb
 C:\sandbox\C_sharp_training\IEnumerable\obj\Debug\netcoreapp3.1\IEnumerable.genruntimeconfig.cache
 C:\sandbox\C_sharp_training\IEnumerable\obj\Debug\netcoreapp3.1\IEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\IEnumerable\bin\Debug\netcoreapp3.1\IEnumerable.exe
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\IEnumerable\bin\Debug\netcoreapp3.1\IEnumerable.deps.json
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\IEnumerable\bin\Debug\netcoreapp3.1\IEnumerable.runtimeconfig.json
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\IEnumerable\bin\Debug\netcoreapp3.1\IEnumerable.runtimeconfig.dev.json
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\IEnumerable\bin\Debug\netcoreapp3.1\IEnumerable.dll
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\IEnumerable\bin\Debug\netcoreapp3.1\IEnumerable.pdb
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\IEnumerable\obj\Debug\netcoreapp3.1\IEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\IEnumerable\obj\Debug\netcoreapp3.1\IEnumerable.AssemblyInfoInputs.cache
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\IEnumerable\obj\Debug\netcoreapp3.1\IEnumerable.AssemblyInfo.cs
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\IEnumerable\obj\Debug\netcoreapp3.1\IEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\IEnumerable\obj\Debug\netcoreapp3.1\IEnumerable.dll
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\IEnumerable\obj\Debug\netcoreapp3.1\IEnumerable.pdb
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\IEnumerable\obj\Debug\netcoreapp3.1\IEnumerable.genruntimeconfig.cache

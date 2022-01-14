@@ -37,3 +37,22 @@ C:\sandbox\Experiments\C_sharp_training\Moq\obj\Debug\Moq.csproj.AssemblyReferen
 C:\sandbox\Experiments\C_sharp_training\Moq\obj\Debug\Moq.csproj.CoreCompileInputs.cache
 C:\sandbox\Experiments\C_sharp_training\Moq\obj\Debug\Moq.exe
 C:\sandbox\Experiments\C_sharp_training\Moq\obj\Debug\Moq.pdb
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Moq\bin\Debug\Moq.exe.config
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Moq\bin\Debug\Moq.exe
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Moq\bin\Debug\Moq.pdb
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Moq\bin\Debug\Castle.Core.dll
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Moq\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Moq\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Moq\bin\Debug\Moq.dll
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Moq\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Moq\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Moq\bin\Debug\Castle.Core.xml
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Moq\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Moq\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Moq\bin\Debug\Moq.xml
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Moq\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Moq\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Moq\obj\Debug\Moq.csproj.AssemblyReference.cache
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Moq\obj\Debug\Moq.csproj.CoreCompileInputs.cache
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Moq\obj\Debug\Moq.exe
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Moq\obj\Debug\Moq.pdb

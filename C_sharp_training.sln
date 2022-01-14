@@ -67,7 +67,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Events2", "Events2\Events2.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moq", "Moq\Moq.csproj", "{F72F35BF-4161-4E6A-BB49-280E43BA0BF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTableTesting", "DataTableTesting\DataTableTesting.csproj", "{89FAFD1A-6647-4744-847A-EC2E55FC5227}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataTableTesting", "DataTableTesting\DataTableTesting.csproj", "{89FAFD1A-6647-4744-847A-EC2E55FC5227}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockTheParent", "MockTheParent\MockTheParent.csproj", "{12F3E268-F89E-43C0-BFC2-1EFC6060DB5B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -207,6 +209,10 @@ Global
 		{89FAFD1A-6647-4744-847A-EC2E55FC5227}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89FAFD1A-6647-4744-847A-EC2E55FC5227}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89FAFD1A-6647-4744-847A-EC2E55FC5227}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12F3E268-F89E-43C0-BFC2-1EFC6060DB5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12F3E268-F89E-43C0-BFC2-1EFC6060DB5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12F3E268-F89E-43C0-BFC2-1EFC6060DB5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12F3E268-F89E-43C0-BFC2-1EFC6060DB5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

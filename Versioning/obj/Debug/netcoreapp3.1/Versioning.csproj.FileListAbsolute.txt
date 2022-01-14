@@ -25,3 +25,17 @@ C:\sandbox\C_sharp_training\Versioning\obj\Debug\netcoreapp3.1\Versioning.pdb
 C:\sandbox\C_sharp_training\Versioning\obj\Debug\netcoreapp3.1\Versioning.genruntimeconfig.cache
 C:\sandbox\C_sharp_training\Versioning\obj\Debug\netcoreapp3.1\Versioning.csproj.AssemblyReference.cache
 C:\sandbox\C_sharp_training\Versioning\obj\Debug\netcoreapp3.1\Versioning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Versioning\bin\Debug\netcoreapp3.1\Versioning.exe
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Versioning\bin\Debug\netcoreapp3.1\Versioning.deps.json
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Versioning\bin\Debug\netcoreapp3.1\Versioning.runtimeconfig.json
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Versioning\bin\Debug\netcoreapp3.1\Versioning.runtimeconfig.dev.json
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Versioning\bin\Debug\netcoreapp3.1\Versioning.dll
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Versioning\bin\Debug\netcoreapp3.1\Versioning.pdb
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Versioning\obj\Debug\netcoreapp3.1\Versioning.csproj.AssemblyReference.cache
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Versioning\obj\Debug\netcoreapp3.1\Versioning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Versioning\obj\Debug\netcoreapp3.1\Versioning.AssemblyInfoInputs.cache
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Versioning\obj\Debug\netcoreapp3.1\Versioning.AssemblyInfo.cs
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Versioning\obj\Debug\netcoreapp3.1\Versioning.csproj.CoreCompileInputs.cache
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Versioning\obj\Debug\netcoreapp3.1\Versioning.dll
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Versioning\obj\Debug\netcoreapp3.1\Versioning.pdb
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Versioning\obj\Debug\netcoreapp3.1\Versioning.genruntimeconfig.cache

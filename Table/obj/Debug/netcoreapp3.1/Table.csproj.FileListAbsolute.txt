@@ -24,3 +24,17 @@ C:\sandbox\C_sharp_training\Table\obj\Debug\netcoreapp3.1\Table.dll
 C:\sandbox\C_sharp_training\Table\obj\Debug\netcoreapp3.1\Table.pdb
 C:\sandbox\C_sharp_training\Table\obj\Debug\netcoreapp3.1\Table.genruntimeconfig.cache
 C:\sandbox\C_sharp_training\Table\obj\Debug\netcoreapp3.1\Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Table\bin\Debug\netcoreapp3.1\Table.exe
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Table\bin\Debug\netcoreapp3.1\Table.deps.json
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Table\bin\Debug\netcoreapp3.1\Table.runtimeconfig.json
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Table\bin\Debug\netcoreapp3.1\Table.runtimeconfig.dev.json
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Table\bin\Debug\netcoreapp3.1\Table.dll
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Table\bin\Debug\netcoreapp3.1\Table.pdb
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Table\obj\Debug\netcoreapp3.1\Table.csproj.AssemblyReference.cache
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Table\obj\Debug\netcoreapp3.1\Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Table\obj\Debug\netcoreapp3.1\Table.AssemblyInfoInputs.cache
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Table\obj\Debug\netcoreapp3.1\Table.AssemblyInfo.cs
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Table\obj\Debug\netcoreapp3.1\Table.csproj.CoreCompileInputs.cache
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Table\obj\Debug\netcoreapp3.1\Table.dll
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Table\obj\Debug\netcoreapp3.1\Table.pdb
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Table\obj\Debug\netcoreapp3.1\Table.genruntimeconfig.cache

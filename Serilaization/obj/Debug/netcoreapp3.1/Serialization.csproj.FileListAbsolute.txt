@@ -13,3 +13,18 @@ C:\sandbox\C_sharp_training\Serilaization\obj\Debug\netcoreapp3.1\Serialization.
 C:\sandbox\C_sharp_training\Serilaization\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\sandbox\C_sharp_training\Serilaization\obj\Debug\netcoreapp3.1\Serialization.csproj.AssemblyReference.cache
 C:\sandbox\C_sharp_training\Serilaization\obj\Debug\netcoreapp3.1\Serialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Serilaization\bin\Debug\netcoreapp3.1\Serialization.exe
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Serilaization\bin\Debug\netcoreapp3.1\Serialization.deps.json
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Serilaization\bin\Debug\netcoreapp3.1\Serialization.runtimeconfig.json
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Serilaization\bin\Debug\netcoreapp3.1\Serialization.runtimeconfig.dev.json
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Serilaization\bin\Debug\netcoreapp3.1\Serialization.dll
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Serilaization\bin\Debug\netcoreapp3.1\Serialization.pdb
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Serilaization\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Serilaization\obj\Debug\netcoreapp3.1\Serialization.csproj.AssemblyReference.cache
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Serilaization\obj\Debug\netcoreapp3.1\Serialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Serilaization\obj\Debug\netcoreapp3.1\Serialization.AssemblyInfoInputs.cache
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Serilaization\obj\Debug\netcoreapp3.1\Serialization.AssemblyInfo.cs
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Serilaization\obj\Debug\netcoreapp3.1\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Serilaization\obj\Debug\netcoreapp3.1\Serialization.dll
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Serilaization\obj\Debug\netcoreapp3.1\Serialization.pdb
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\Serilaization\obj\Debug\netcoreapp3.1\Serialization.genruntimeconfig.cache

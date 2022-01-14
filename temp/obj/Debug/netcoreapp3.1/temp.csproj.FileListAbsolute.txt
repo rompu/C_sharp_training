@@ -39,3 +39,16 @@ C:\sandbox\Experiments\C_sharp_training\temp\obj\Debug\netcoreapp3.1\temp.csproj
 C:\sandbox\Experiments\C_sharp_training\temp\obj\Debug\netcoreapp3.1\temp.dll
 C:\sandbox\Experiments\C_sharp_training\temp\obj\Debug\netcoreapp3.1\temp.pdb
 C:\sandbox\Experiments\C_sharp_training\temp\obj\Debug\netcoreapp3.1\temp.genruntimeconfig.cache
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\temp\bin\Debug\netcoreapp3.1\temp.exe
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\temp\bin\Debug\netcoreapp3.1\temp.deps.json
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\temp\bin\Debug\netcoreapp3.1\temp.runtimeconfig.json
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\temp\bin\Debug\netcoreapp3.1\temp.runtimeconfig.dev.json
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\temp\bin\Debug\netcoreapp3.1\temp.dll
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\temp\bin\Debug\netcoreapp3.1\temp.pdb
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\temp\obj\Debug\netcoreapp3.1\temp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\temp\obj\Debug\netcoreapp3.1\temp.AssemblyInfoInputs.cache
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\temp\obj\Debug\netcoreapp3.1\temp.AssemblyInfo.cs
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\temp\obj\Debug\netcoreapp3.1\temp.csproj.CoreCompileInputs.cache
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\temp\obj\Debug\netcoreapp3.1\temp.dll
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\temp\obj\Debug\netcoreapp3.1\temp.pdb
+C:\Users\xbrinkr\OneDrive - Napa LTD\Documents\Repositories\C_sharp_training\temp\obj\Debug\netcoreapp3.1\temp.genruntimeconfig.cache

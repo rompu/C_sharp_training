@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\sandbox\\Experiments\\C_sharp_training\\LamdaExpressions\\LambdaExpressions.csproj": {}
+    "C:\\Users\\xbrinkr\\OneDrive - Napa LTD\\Documents\\Repositories\\C_sharp_training\\LamdaExpressions\\LambdaExpressions.csproj": {}
   },
   "projects": {
-    "C:\\sandbox\\Experiments\\C_sharp_training\\LamdaExpressions\\LambdaExpressions.csproj": {
+    "C:\\Users\\xbrinkr\\OneDrive - Napa LTD\\Documents\\Repositories\\C_sharp_training\\LamdaExpressions\\LambdaExpressions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\sandbox\\Experiments\\C_sharp_training\\LamdaExpressions\\LambdaExpressions.csproj",
+        "projectUniqueName": "C:\\Users\\xbrinkr\\OneDrive - Napa LTD\\Documents\\Repositories\\C_sharp_training\\LamdaExpressions\\LambdaExpressions.csproj",
         "projectName": "LambdaExpressions",
-        "projectPath": "C:\\sandbox\\Experiments\\C_sharp_training\\LamdaExpressions\\LambdaExpressions.csproj",
+        "projectPath": "C:\\Users\\xbrinkr\\OneDrive - Napa LTD\\Documents\\Repositories\\C_sharp_training\\LamdaExpressions\\LambdaExpressions.csproj",
         "packagesPath": "C:\\Users\\xbrinkr\\.nuget\\packages\\",
-        "outputPath": "C:\\sandbox\\Experiments\\C_sharp_training\\LamdaExpressions\\obj\\",
+        "outputPath": "C:\\Users\\xbrinkr\\OneDrive - Napa LTD\\Documents\\Repositories\\C_sharp_training\\LamdaExpressions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
